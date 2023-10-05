@@ -2,7 +2,7 @@
 wubaiyi's Monster Spawner.
 # 竞赛之路
 
-十年竞赛一场空，不开`long long`见祖宗  
+十年竞赛一场空，不开long long见祖宗  
 模拟只会猜题意，贪心只能过样例  
 模拟能有三十五，贪心直接TLE  
 数学上来先打表，DP一般看规律  
